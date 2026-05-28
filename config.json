@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpervender",
+        "uuid": 8585582,
+        "checksum": "g86o4"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
